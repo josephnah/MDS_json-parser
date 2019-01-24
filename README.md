@@ -1,2 +1,3 @@
 # MDS_json-parser
-Python file to extract and parse json file to link w/ behavioral data 
+Extracts json file from MDS (meadows-research.com) to link w/ behavioral data. Customized to fit semantic_scenes-object project. 
+
